@@ -46,6 +46,7 @@ section h2
     background: #000;
     background: rgba(0, 0, 0,0.95);
     mix-blend-mode:multiply;
+    opacity: 90%;
 }
 
 section h2 span
@@ -55,7 +56,7 @@ section h2 span
 }
 
 audio{
-    opacity: 15%;
+    opacity: 20%;
     position:relative;
-    margin-top: 120%;
+    margin-top: 130%;
 }
